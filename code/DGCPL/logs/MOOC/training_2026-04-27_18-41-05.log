@@ -1,0 +1,325 @@
+2026-04-27 18:41:05,923 - INFO - Using device: cpu
+2026-04-27 18:41:05,924 - INFO - Dataset: MOOC
+
+2026-04-27 18:41:05,924 - INFO - Read data complete!
+2026-04-27 18:41:07,727 - INFO - Training!!!!
+2026-04-27 18:41:07,728 - INFO - epoch: 1, lr = 0.0001
+2026-04-27 18:41:15,824 - INFO - Average train loss for epoch 1: 2.0116653442382812
+2026-04-27 18:41:18,872 - INFO - Train metrics: ACC = 0.7113, F1 = 0.7300, Precision = 0.6857, Recall = 0.7805, AUC = 0.7827, AP = 0.7614
+2026-04-27 18:41:19,214 - INFO - Validation metrics: ACC = 0.7214, F1 = 0.7522, Precision = 0.6800, Recall = 0.8416, AUC = 0.7993, AP = 0.7714
+2026-04-27 18:41:19,214 - INFO - Saved new best model at epoch 1 with val_auc: 0.7993!!!
+2026-04-27 18:41:19,241 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:41:19,241 - INFO - Epoch 1 duration: 11.51 seconds
+
+2026-04-27 18:41:19,241 - INFO - epoch: 2, lr = 0.0001
+2026-04-27 18:41:28,366 - INFO - Average train loss for epoch 2: 1.784494161605835
+2026-04-27 18:41:30,959 - INFO - Train metrics: ACC = 0.7500, F1 = 0.7464, Precision = 0.7574, Recall = 0.7357, AUC = 0.8313, AP = 0.8152
+2026-04-27 18:41:31,296 - INFO - Validation metrics: ACC = 0.7512, F1 = 0.7525, Precision = 0.7525, Recall = 0.7525, AUC = 0.8580, AP = 0.8589
+2026-04-27 18:41:31,296 - INFO - Saved new best model at epoch 2 with val_auc: 0.8580!!!
+2026-04-27 18:41:31,309 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:41:31,309 - INFO - Epoch 2 duration: 12.07 seconds
+
+2026-04-27 18:41:31,310 - INFO - epoch: 3, lr = 0.0001
+2026-04-27 18:41:41,000 - INFO - Average train loss for epoch 3: 1.5930577516555786
+2026-04-27 18:41:43,615 - INFO - Train metrics: ACC = 0.7787, F1 = 0.7766, Precision = 0.7840, Recall = 0.7693, AUC = 0.8649, AP = 0.8434
+2026-04-27 18:41:43,944 - INFO - Validation metrics: ACC = 0.7711, F1 = 0.7677, Precision = 0.7835, Recall = 0.7525, AUC = 0.8784, AP = 0.8674
+2026-04-27 18:41:43,944 - INFO - Saved new best model at epoch 3 with val_auc: 0.8784!!!
+2026-04-27 18:41:43,957 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:41:43,957 - INFO - Epoch 3 duration: 12.65 seconds
+
+2026-04-27 18:41:43,957 - INFO - epoch: 4, lr = 0.0001
+2026-04-27 18:41:52,746 - INFO - Average train loss for epoch 4: 1.4857443571090698
+2026-04-27 18:41:55,420 - INFO - Train metrics: ACC = 0.8011, F1 = 0.8007, Precision = 0.8023, Recall = 0.7993, AUC = 0.8787, AP = 0.8545
+2026-04-27 18:41:55,771 - INFO - Validation metrics: ACC = 0.7711, F1 = 0.7700, Precision = 0.7778, Recall = 0.7624, AUC = 0.8806, AP = 0.8645
+2026-04-27 18:41:55,771 - INFO - Saved new best model at epoch 4 with val_auc: 0.8806!!!
+2026-04-27 18:41:55,784 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:41:55,784 - INFO - Epoch 4 duration: 11.83 seconds
+
+2026-04-27 18:41:55,784 - INFO - epoch: 5, lr = 0.0001
+2026-04-27 18:42:05,374 - INFO - Average train loss for epoch 5: 1.4308521747589111
+2026-04-27 18:42:07,987 - INFO - Train metrics: ACC = 0.8161, F1 = 0.8117, Precision = 0.8314, Recall = 0.7930, AUC = 0.8886, AP = 0.8642
+2026-04-27 18:42:08,451 - INFO - Validation metrics: ACC = 0.7612, F1 = 0.7526, Precision = 0.7849, Recall = 0.7228, AUC = 0.8831, AP = 0.8625
+2026-04-27 18:42:08,457 - INFO - Saved new best model at epoch 5 with val_auc: 0.8831!!!
+2026-04-27 18:42:08,470 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:42:08,470 - INFO - Epoch 5 duration: 12.69 seconds
+
+2026-04-27 18:42:08,470 - INFO - epoch: 6, lr = 0.0001
+2026-04-27 18:42:18,249 - INFO - Average train loss for epoch 6: 1.3885126113891602
+2026-04-27 18:42:21,020 - INFO - Train metrics: ACC = 0.8217, F1 = 0.8183, Precision = 0.8342, Recall = 0.8030, AUC = 0.8963, AP = 0.8721
+2026-04-27 18:42:21,406 - INFO - Validation metrics: ACC = 0.7761, F1 = 0.7716, Precision = 0.7917, Recall = 0.7525, AUC = 0.8831, AP = 0.8640
+2026-04-27 18:42:21,406 - INFO - Epoch 6 duration: 12.94 seconds
+
+2026-04-27 18:42:21,407 - INFO - epoch: 7, lr = 0.0001
+2026-04-27 18:42:30,122 - INFO - Average train loss for epoch 7: 1.3241794109344482
+2026-04-27 18:42:33,501 - INFO - Train metrics: ACC = 0.8279, F1 = 0.8262, Precision = 0.8346, Recall = 0.8180, AUC = 0.9032, AP = 0.8775
+2026-04-27 18:42:33,866 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.7879, Precision = 0.8041, Recall = 0.7723, AUC = 0.8811, AP = 0.8602
+2026-04-27 18:42:33,866 - INFO - Epoch 7 duration: 12.46 seconds
+
+2026-04-27 18:42:33,867 - INFO - epoch: 8, lr = 0.0001
+2026-04-27 18:42:47,181 - INFO - Average train loss for epoch 8: 1.3086596727371216
+2026-04-27 18:42:50,361 - INFO - Train metrics: ACC = 0.8310, F1 = 0.8268, Precision = 0.8480, Recall = 0.8067, AUC = 0.9073, AP = 0.8823
+2026-04-27 18:42:50,781 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.7857, Precision = 0.8105, Recall = 0.7624, AUC = 0.8845, AP = 0.8640
+2026-04-27 18:42:50,782 - INFO - Saved new best model at epoch 8 with val_auc: 0.8845!!!
+2026-04-27 18:42:50,796 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:42:50,796 - INFO - Epoch 8 duration: 16.93 seconds
+
+2026-04-27 18:42:50,797 - INFO - epoch: 9, lr = 0.0001
+2026-04-27 18:43:01,675 - INFO - Average train loss for epoch 9: 1.2523605823516846
+2026-04-27 18:43:06,587 - INFO - Train metrics: ACC = 0.8466, F1 = 0.8447, Precision = 0.8555, Recall = 0.8342, AUC = 0.9134, AP = 0.8877
+2026-04-27 18:43:07,275 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.7940, Precision = 0.8061, Recall = 0.7822, AUC = 0.8815, AP = 0.8588
+2026-04-27 18:43:07,275 - INFO - Epoch 9 duration: 16.48 seconds
+
+2026-04-27 18:43:07,276 - INFO - epoch: 10, lr = 0.0001
+2026-04-27 18:43:22,267 - INFO - Average train loss for epoch 10: 1.2412514686584473
+2026-04-27 18:43:27,027 - INFO - Train metrics: ACC = 0.8485, F1 = 0.8457, Precision = 0.8616, Recall = 0.8304, AUC = 0.9171, AP = 0.8916
+2026-04-27 18:43:27,630 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.7940, Precision = 0.8061, Recall = 0.7822, AUC = 0.8826, AP = 0.8590
+2026-04-27 18:43:27,630 - INFO - Epoch 10 duration: 20.35 seconds
+
+2026-04-27 18:43:27,630 - INFO - epoch: 11, lr = 0.0001
+2026-04-27 18:43:43,674 - INFO - Average train loss for epoch 11: 1.24657142162323
+2026-04-27 18:43:47,763 - INFO - Train metrics: ACC = 0.8547, F1 = 0.8523, Precision = 0.8671, Recall = 0.8379, AUC = 0.9202, AP = 0.8942
+2026-04-27 18:43:48,287 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8060, Precision = 0.8100, Recall = 0.8020, AUC = 0.8831, AP = 0.8580
+2026-04-27 18:43:48,288 - INFO - Epoch 11 duration: 20.66 seconds
+
+2026-04-27 18:43:48,288 - INFO - epoch: 12, lr = 0.0001
+2026-04-27 18:44:02,707 - INFO - Average train loss for epoch 12: 1.190818428993225
+2026-04-27 18:44:09,065 - INFO - Train metrics: ACC = 0.8585, F1 = 0.8566, Precision = 0.8681, Recall = 0.8454, AUC = 0.9235, AP = 0.8965
+2026-04-27 18:44:09,785 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8060, Precision = 0.8100, Recall = 0.8020, AUC = 0.8815, AP = 0.8555
+2026-04-27 18:44:09,786 - INFO - Epoch 12 duration: 21.50 seconds
+
+2026-04-27 18:44:09,786 - INFO - epoch: 13, lr = 0.0001
+2026-04-27 18:44:28,818 - INFO - Average train loss for epoch 13: 1.1747113466262817
+2026-04-27 18:44:34,677 - INFO - Train metrics: ACC = 0.8641, F1 = 0.8611, Precision = 0.8802, Recall = 0.8429, AUC = 0.9264, AP = 0.8991
+2026-04-27 18:44:35,345 - INFO - Validation metrics: ACC = 0.8109, F1 = 0.8119, Precision = 0.8119, Recall = 0.8119, AUC = 0.8819, AP = 0.8554
+2026-04-27 18:44:35,346 - INFO - Epoch 13 duration: 25.56 seconds
+
+2026-04-27 18:44:35,346 - INFO - epoch: 14, lr = 0.0001
+2026-04-27 18:44:54,109 - INFO - Average train loss for epoch 14: 1.158408761024475
+2026-04-27 18:44:59,998 - INFO - Train metrics: ACC = 0.8653, F1 = 0.8635, Precision = 0.8756, Recall = 0.8516, AUC = 0.9284, AP = 0.9012
+2026-04-27 18:45:00,869 - INFO - Validation metrics: ACC = 0.8109, F1 = 0.8119, Precision = 0.8119, Recall = 0.8119, AUC = 0.8817, AP = 0.8562
+2026-04-27 18:45:00,870 - INFO - Epoch 14 duration: 25.52 seconds
+
+2026-04-27 18:45:00,871 - INFO - epoch: 15, lr = 0.0001
+2026-04-27 18:45:22,581 - INFO - Average train loss for epoch 15: 1.1601086854934692
+2026-04-27 18:45:28,400 - INFO - Train metrics: ACC = 0.8697, F1 = 0.8680, Precision = 0.8796, Recall = 0.8566, AUC = 0.9314, AP = 0.9046
+2026-04-27 18:45:29,089 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8098, Precision = 0.7981, Recall = 0.8218, AUC = 0.8801, AP = 0.8480
+2026-04-27 18:45:29,089 - INFO - Epoch 15 duration: 28.22 seconds
+
+2026-04-27 18:45:29,089 - INFO - epoch: 16, lr = 0.0001
+2026-04-27 18:45:49,729 - INFO - Average train loss for epoch 16: 1.1180644035339355
+2026-04-27 18:45:59,813 - INFO - Train metrics: ACC = 0.8728, F1 = 0.8736, Precision = 0.8682, Recall = 0.8791, AUC = 0.9333, AP = 0.9066
+2026-04-27 18:46:00,893 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8213, Precision = 0.8019, Recall = 0.8416, AUC = 0.8817, AP = 0.8470
+2026-04-27 18:46:00,893 - INFO - Epoch 16 duration: 31.80 seconds
+
+2026-04-27 18:46:00,894 - INFO - epoch: 17, lr = 0.0001
+2026-04-27 18:46:13,622 - INFO - Average train loss for epoch 17: 1.1076693534851074
+2026-04-27 18:46:21,728 - INFO - Train metrics: ACC = 0.8709, F1 = 0.8692, Precision = 0.8809, Recall = 0.8579, AUC = 0.9354, AP = 0.9081
+2026-04-27 18:46:23,198 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8177, Precision = 0.8137, Recall = 0.8218, AUC = 0.8812, AP = 0.8543
+2026-04-27 18:46:23,198 - INFO - Epoch 17 duration: 22.30 seconds
+
+2026-04-27 18:46:23,198 - INFO - epoch: 18, lr = 0.0001
+2026-04-27 18:46:39,494 - INFO - Average train loss for epoch 18: 1.0832290649414062
+2026-04-27 18:46:47,842 - INFO - Train metrics: ACC = 0.8722, F1 = 0.8705, Precision = 0.8822, Recall = 0.8591, AUC = 0.9377, AP = 0.9119
+2026-04-27 18:46:48,897 - INFO - Validation metrics: ACC = 0.8259, F1 = 0.8293, Precision = 0.8173, Recall = 0.8416, AUC = 0.8825, AP = 0.8555
+2026-04-27 18:46:48,897 - INFO - Epoch 18 duration: 25.70 seconds
+
+2026-04-27 18:46:48,898 - INFO - epoch: 19, lr = 0.0001
+2026-04-27 18:47:09,102 - INFO - Average train loss for epoch 19: 1.0870451927185059
+2026-04-27 18:47:17,757 - INFO - Train metrics: ACC = 0.8753, F1 = 0.8752, Precision = 0.8762, Recall = 0.8741, AUC = 0.9399, AP = 0.9147
+2026-04-27 18:47:18,842 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8195, Precision = 0.8077, Recall = 0.8317, AUC = 0.8838, AP = 0.8514
+2026-04-27 18:47:18,843 - INFO - Epoch 19 duration: 29.94 seconds
+
+2026-04-27 18:47:18,843 - INFO - epoch: 20, lr = 0.0001
+2026-04-27 18:47:35,856 - INFO - Average train loss for epoch 20: 1.0554753541946411
+2026-04-27 18:47:46,385 - INFO - Train metrics: ACC = 0.8747, F1 = 0.8719, Precision = 0.8918, Recall = 0.8529, AUC = 0.9419, AP = 0.9163
+2026-04-27 18:47:48,119 - INFO - Validation metrics: ACC = 0.8259, F1 = 0.8276, Precision = 0.8235, Recall = 0.8317, AUC = 0.8838, AP = 0.8506
+2026-04-27 18:47:48,121 - INFO - Epoch 20 duration: 29.28 seconds
+
+2026-04-27 18:47:48,121 - INFO - epoch: 21, lr = 0.0001
+2026-04-27 18:48:12,803 - INFO - Average train loss for epoch 21: 1.0333027839660645
+2026-04-27 18:48:28,590 - INFO - Train metrics: ACC = 0.8791, F1 = 0.8789, Precision = 0.8800, Recall = 0.8778, AUC = 0.9447, AP = 0.9209
+2026-04-27 18:48:30,797 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8195, Precision = 0.8077, Recall = 0.8317, AUC = 0.8835, AP = 0.8542
+2026-04-27 18:48:30,798 - INFO - Epoch 21 duration: 42.68 seconds
+
+2026-04-27 18:48:30,798 - INFO - epoch: 22, lr = 0.0001
+2026-04-27 18:49:00,845 - INFO - Average train loss for epoch 22: 1.0321781635284424
+2026-04-27 18:49:18,247 - INFO - Train metrics: ACC = 0.8828, F1 = 0.8809, Precision = 0.8956, Recall = 0.8666, AUC = 0.9463, AP = 0.9226
+2026-04-27 18:49:20,353 - INFO - Validation metrics: ACC = 0.8259, F1 = 0.8276, Precision = 0.8235, Recall = 0.8317, AUC = 0.8839, AP = 0.8522
+2026-04-27 18:49:20,354 - INFO - Epoch 22 duration: 49.56 seconds
+
+2026-04-27 18:49:20,354 - INFO - epoch: 23, lr = 0.0001
+2026-04-27 18:49:50,634 - INFO - Average train loss for epoch 23: 1.0415832996368408
+2026-04-27 18:50:08,063 - INFO - Train metrics: ACC = 0.8865, F1 = 0.8858, Precision = 0.8914, Recall = 0.8803, AUC = 0.9480, AP = 0.9250
+2026-04-27 18:50:10,157 - INFO - Validation metrics: ACC = 0.8259, F1 = 0.8259, Precision = 0.8300, Recall = 0.8218, AUC = 0.8860, AP = 0.8649
+2026-04-27 18:50:10,157 - INFO - Saved new best model at epoch 23 with val_auc: 0.8860!!!
+2026-04-27 18:50:10,177 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:50:10,178 - INFO - Epoch 23 duration: 49.82 seconds
+
+2026-04-27 18:50:10,178 - INFO - epoch: 24, lr = 0.0001
+2026-04-27 18:50:38,456 - INFO - Average train loss for epoch 24: 1.0050349235534668
+2026-04-27 18:50:54,625 - INFO - Train metrics: ACC = 0.8865, F1 = 0.8848, Precision = 0.8985, Recall = 0.8716, AUC = 0.9511, AP = 0.9292
+2026-04-27 18:50:56,293 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8177, Precision = 0.8137, Recall = 0.8218, AUC = 0.8863, AP = 0.8649
+2026-04-27 18:50:56,293 - INFO - Saved new best model at epoch 24 with val_auc: 0.8863!!!
+2026-04-27 18:50:56,306 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 18:50:56,306 - INFO - Epoch 24 duration: 46.13 seconds
+
+2026-04-27 18:50:56,306 - INFO - epoch: 25, lr = 0.0001
+2026-04-27 18:51:14,199 - INFO - Average train loss for epoch 25: 0.9716185927391052
+2026-04-27 18:51:26,240 - INFO - Train metrics: ACC = 0.8978, F1 = 0.8978, Precision = 0.8978, Recall = 0.8978, AUC = 0.9529, AP = 0.9331
+2026-04-27 18:51:28,382 - INFO - Validation metrics: ACC = 0.8010, F1 = 0.8039, Precision = 0.7961, Recall = 0.8119, AUC = 0.8840, AP = 0.8609
+2026-04-27 18:51:28,382 - INFO - Epoch 25 duration: 32.08 seconds
+
+2026-04-27 18:51:28,383 - INFO - epoch: 26, lr = 0.0001
+2026-04-27 18:51:50,076 - INFO - Average train loss for epoch 26: 0.9440386295318604
+2026-04-27 18:52:01,549 - INFO - Train metrics: ACC = 0.8978, F1 = 0.8999, Precision = 0.8816, Recall = 0.9190, AUC = 0.9539, AP = 0.9320
+2026-04-27 18:52:03,462 - INFO - Validation metrics: ACC = 0.8010, F1 = 0.8077, Precision = 0.7850, Recall = 0.8317, AUC = 0.8823, AP = 0.8585
+2026-04-27 18:52:03,464 - INFO - Epoch 26 duration: 35.08 seconds
+
+2026-04-27 18:52:03,465 - INFO - epoch: 27, lr = 0.0001
+2026-04-27 18:52:24,843 - INFO - Average train loss for epoch 27: 0.9488674402236938
+2026-04-27 18:52:36,789 - INFO - Train metrics: ACC = 0.9040, F1 = 0.9049, Precision = 0.8961, Recall = 0.9140, AUC = 0.9557, AP = 0.9354
+2026-04-27 18:52:38,226 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8098, Precision = 0.7981, Recall = 0.8218, AUC = 0.8846, AP = 0.8654
+2026-04-27 18:52:38,226 - INFO - Epoch 27 duration: 34.76 seconds
+
+2026-04-27 18:52:38,226 - INFO - epoch: 28, lr = 0.0001
+2026-04-27 18:52:58,679 - INFO - Average train loss for epoch 28: 0.9180852770805359
+2026-04-27 18:53:11,533 - INFO - Train metrics: ACC = 0.9052, F1 = 0.9054, Precision = 0.9042, Recall = 0.9065, AUC = 0.9583, AP = 0.9395
+2026-04-27 18:53:13,304 - INFO - Validation metrics: ACC = 0.8010, F1 = 0.8039, Precision = 0.7961, Recall = 0.8119, AUC = 0.8850, AP = 0.8648
+2026-04-27 18:53:13,304 - INFO - Epoch 28 duration: 35.08 seconds
+
+2026-04-27 18:53:13,305 - INFO - epoch: 29, lr = 0.0001
+2026-04-27 18:53:36,649 - INFO - Average train loss for epoch 29: 0.9357852339744568
+2026-04-27 18:53:52,688 - INFO - Train metrics: ACC = 0.9096, F1 = 0.9102, Precision = 0.9041, Recall = 0.9165, AUC = 0.9595, AP = 0.9416
+2026-04-27 18:53:54,671 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8159, Precision = 0.8200, Recall = 0.8119, AUC = 0.8861, AP = 0.8652
+2026-04-27 18:53:54,672 - INFO - Epoch 29 duration: 41.37 seconds
+
+2026-04-27 18:53:54,672 - INFO - epoch: 30, lr = 0.0001
+2026-04-27 18:54:19,669 - INFO - Average train loss for epoch 30: 0.9038538932800293
+2026-04-27 18:54:37,369 - INFO - Train metrics: ACC = 0.9121, F1 = 0.9131, Precision = 0.9026, Recall = 0.9239, AUC = 0.9618, AP = 0.9455
+2026-04-27 18:54:39,544 - INFO - Validation metrics: ACC = 0.8159, F1 = 0.8177, Precision = 0.8137, Recall = 0.8218, AUC = 0.8807, AP = 0.8586
+2026-04-27 18:54:39,545 - INFO - Epoch 30 duration: 44.87 seconds
+
+2026-04-27 18:54:39,545 - INFO - epoch: 31, lr = 0.0001
+2026-04-27 18:55:07,154 - INFO - Average train loss for epoch 31: 0.8834193348884583
+2026-04-27 18:55:22,565 - INFO - Train metrics: ACC = 0.9127, F1 = 0.9149, Precision = 0.8922, Recall = 0.9389, AUC = 0.9632, AP = 0.9479
+2026-04-27 18:55:24,384 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8116, Precision = 0.7925, Recall = 0.8317, AUC = 0.8827, AP = 0.8613
+2026-04-27 18:55:24,385 - INFO - Epoch 31 duration: 44.84 seconds
+
+2026-04-27 18:55:24,385 - INFO - epoch: 32, lr = 0.0001
+2026-04-27 18:55:46,085 - INFO - Average train loss for epoch 32: 0.8580594062805176
+2026-04-27 18:55:59,625 - INFO - Train metrics: ACC = 0.9090, F1 = 0.9101, Precision = 0.8990, Recall = 0.9214, AUC = 0.9650, AP = 0.9502
+2026-04-27 18:56:01,356 - INFO - Validation metrics: ACC = 0.8010, F1 = 0.8039, Precision = 0.7961, Recall = 0.8119, AUC = 0.8860, AP = 0.8663
+2026-04-27 18:56:01,356 - INFO - Epoch 32 duration: 36.97 seconds
+
+2026-04-27 18:56:01,356 - INFO - epoch: 33, lr = 0.0001
+2026-04-27 18:56:25,639 - INFO - Average train loss for epoch 33: 0.8475505709648132
+2026-04-27 18:56:40,686 - INFO - Train metrics: ACC = 0.9177, F1 = 0.9192, Precision = 0.9026, Recall = 0.9364, AUC = 0.9654, AP = 0.9503
+2026-04-27 18:56:42,584 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8038, Precision = 0.7778, Recall = 0.8317, AUC = 0.8825, AP = 0.8595
+2026-04-27 18:56:42,584 - INFO - Epoch 33 duration: 41.23 seconds
+
+2026-04-27 18:56:42,584 - INFO - epoch: 34, lr = 0.0001
+2026-04-27 18:57:06,433 - INFO - Average train loss for epoch 34: 0.8554736971855164
+2026-04-27 18:57:23,149 - INFO - Train metrics: ACC = 0.9214, F1 = 0.9235, Precision = 0.9005, Recall = 0.9476, AUC = 0.9668, AP = 0.9531
+2026-04-27 18:57:25,504 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8019, Precision = 0.7830, Recall = 0.8218, AUC = 0.8843, AP = 0.8586
+2026-04-27 18:57:25,504 - INFO - Epoch 34 duration: 42.92 seconds
+
+2026-04-27 18:57:25,504 - INFO - epoch: 35, lr = 0.0001
+2026-04-27 18:57:57,624 - INFO - Average train loss for epoch 35: 0.8462464809417725
+2026-04-27 18:58:15,057 - INFO - Train metrics: ACC = 0.9190, F1 = 0.9207, Precision = 0.9010, Recall = 0.9414, AUC = 0.9670, AP = 0.9523
+2026-04-27 18:58:17,370 - INFO - Validation metrics: ACC = 0.8060, F1 = 0.8134, Precision = 0.7870, Recall = 0.8416, AUC = 0.8818, AP = 0.8600
+2026-04-27 18:58:17,370 - INFO - Epoch 35 duration: 51.87 seconds
+
+2026-04-27 18:58:17,370 - INFO - epoch: 36, lr = 0.0001
+2026-04-27 18:58:47,665 - INFO - Average train loss for epoch 36: 0.8315547108650208
+2026-04-27 18:59:09,278 - INFO - Train metrics: ACC = 0.9208, F1 = 0.9239, Precision = 0.8893, Recall = 0.9613, AUC = 0.9687, AP = 0.9550
+2026-04-27 18:59:12,448 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8093, Precision = 0.7632, Recall = 0.8614, AUC = 0.8839, AP = 0.8599
+2026-04-27 18:59:12,449 - INFO - Epoch 36 duration: 55.08 seconds
+
+2026-04-27 18:59:12,449 - INFO - epoch: 37, lr = 0.0001
+2026-04-27 18:59:43,396 - INFO - Average train loss for epoch 37: 0.8463878631591797
+2026-04-27 19:00:03,560 - INFO - Train metrics: ACC = 0.9196, F1 = 0.9210, Precision = 0.9049, Recall = 0.9377, AUC = 0.9715, AP = 0.9591
+2026-04-27 19:00:06,582 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.7961, Precision = 0.7810, Recall = 0.8119, AUC = 0.8837, AP = 0.8604
+2026-04-27 19:00:06,582 - INFO - Epoch 37 duration: 54.13 seconds
+
+2026-04-27 19:00:06,582 - INFO - epoch: 38, lr = 0.0001
+2026-04-27 19:00:33,445 - INFO - Average train loss for epoch 38: 0.7804424166679382
+2026-04-27 19:00:51,155 - INFO - Train metrics: ACC = 0.9239, F1 = 0.9267, Precision = 0.8944, Recall = 0.9613, AUC = 0.9704, AP = 0.9584
+2026-04-27 19:00:53,529 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.8019, Precision = 0.7658, Recall = 0.8416, AUC = 0.8770, AP = 0.8425
+2026-04-27 19:00:53,529 - INFO - Epoch 38 duration: 46.95 seconds
+
+2026-04-27 19:00:53,530 - INFO - epoch: 39, lr = 0.0001
+2026-04-27 19:01:24,336 - INFO - Average train loss for epoch 39: 0.8132771253585815
+2026-04-27 19:01:42,839 - INFO - Train metrics: ACC = 0.9277, F1 = 0.9302, Precision = 0.8988, Recall = 0.9638, AUC = 0.9711, AP = 0.9584
+2026-04-27 19:01:45,113 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8038, Precision = 0.7778, Recall = 0.8317, AUC = 0.8818, AP = 0.8557
+2026-04-27 19:01:45,113 - INFO - Epoch 39 duration: 51.58 seconds
+
+2026-04-27 19:01:45,113 - INFO - epoch: 40, lr = 0.0001
+2026-04-27 19:02:12,985 - INFO - Average train loss for epoch 40: 0.8044379353523254
+2026-04-27 19:02:31,221 - INFO - Train metrics: ACC = 0.9239, F1 = 0.9262, Precision = 0.8991, Recall = 0.9551, AUC = 0.9736, AP = 0.9622
+2026-04-27 19:02:33,548 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8038, Precision = 0.7778, Recall = 0.8317, AUC = 0.8810, AP = 0.8567
+2026-04-27 19:02:33,548 - INFO - Epoch 40 duration: 48.44 seconds
+
+2026-04-27 19:02:33,549 - INFO - epoch: 41, lr = 0.0001
+2026-04-27 19:03:02,638 - INFO - Average train loss for epoch 41: 0.7880247235298157
+2026-04-27 19:03:21,538 - INFO - Train metrics: ACC = 0.9258, F1 = 0.9284, Precision = 0.8966, Recall = 0.9626, AUC = 0.9757, AP = 0.9649
+2026-04-27 19:03:23,980 - INFO - Validation metrics: ACC = 0.7811, F1 = 0.7944, Precision = 0.7522, Recall = 0.8416, AUC = 0.8852, AP = 0.8638
+2026-04-27 19:03:23,981 - INFO - Epoch 41 duration: 50.43 seconds
+
+2026-04-27 19:03:23,981 - INFO - epoch: 42, lr = 0.0001
+2026-04-27 19:03:53,571 - INFO - Average train loss for epoch 42: 0.7630487680435181
+2026-04-27 19:04:14,870 - INFO - Train metrics: ACC = 0.9296, F1 = 0.9306, Precision = 0.9166, Recall = 0.9451, AUC = 0.9769, AP = 0.9678
+2026-04-27 19:04:17,879 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.7961, Precision = 0.7810, Recall = 0.8119, AUC = 0.8864, AP = 0.8627
+2026-04-27 19:04:17,880 - INFO - Saved new best model at epoch 42 with val_auc: 0.8864!!!
+2026-04-27 19:04:17,894 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 19:04:17,894 - INFO - Epoch 42 duration: 53.91 seconds
+
+2026-04-27 19:04:17,894 - INFO - epoch: 43, lr = 0.0001
+2026-04-27 19:04:53,467 - INFO - Average train loss for epoch 43: 0.7974913120269775
+2026-04-27 19:05:08,389 - INFO - Train metrics: ACC = 0.9314, F1 = 0.9338, Precision = 0.9023, Recall = 0.9676, AUC = 0.9759, AP = 0.9652
+2026-04-27 19:05:10,271 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.8000, Precision = 0.7706, Recall = 0.8317, AUC = 0.8824, AP = 0.8529
+2026-04-27 19:05:10,271 - INFO - Epoch 43 duration: 52.38 seconds
+
+2026-04-27 19:05:10,272 - INFO - epoch: 44, lr = 0.0001
+2026-04-27 19:05:29,752 - INFO - Average train loss for epoch 44: 0.7688281536102295
+2026-04-27 19:05:44,757 - INFO - Train metrics: ACC = 0.9327, F1 = 0.9353, Precision = 0.9007, Recall = 0.9726, AUC = 0.9765, AP = 0.9659
+2026-04-27 19:05:46,697 - INFO - Validation metrics: ACC = 0.7861, F1 = 0.7981, Precision = 0.7589, Recall = 0.8416, AUC = 0.8785, AP = 0.8477
+2026-04-27 19:05:46,698 - INFO - Epoch 44 duration: 36.43 seconds
+
+2026-04-27 19:05:46,698 - INFO - epoch: 45, lr = 0.0001
+2026-04-27 19:06:04,591 - INFO - Average train loss for epoch 45: 0.7396573424339294
+2026-04-27 19:06:18,197 - INFO - Train metrics: ACC = 0.9352, F1 = 0.9370, Precision = 0.9106, Recall = 0.9651, AUC = 0.9778, AP = 0.9687
+2026-04-27 19:06:19,984 - INFO - Validation metrics: ACC = 0.7960, F1 = 0.8038, Precision = 0.7778, Recall = 0.8317, AUC = 0.8802, AP = 0.8429
+2026-04-27 19:06:19,984 - INFO - Epoch 45 duration: 33.29 seconds
+
+2026-04-27 19:06:19,985 - INFO - epoch: 46, lr = 0.0001
+2026-04-27 19:06:37,719 - INFO - Average train loss for epoch 46: 0.743899405002594
+2026-04-27 19:06:51,906 - INFO - Train metrics: ACC = 0.9320, F1 = 0.9340, Precision = 0.9081, Recall = 0.9613, AUC = 0.9766, AP = 0.9660
+2026-04-27 19:06:53,679 - INFO - Validation metrics: ACC = 0.8010, F1 = 0.8077, Precision = 0.7850, Recall = 0.8317, AUC = 0.8800, AP = 0.8534
+2026-04-27 19:06:53,679 - INFO - Epoch 46 duration: 33.69 seconds
+
+2026-04-27 19:06:53,679 - INFO - epoch: 47, lr = 0.0001
+2026-04-27 19:07:10,608 - INFO - Average train loss for epoch 47: 0.7360811829566956
+2026-04-27 19:07:22,793 - INFO - Train metrics: ACC = 0.9345, F1 = 0.9365, Precision = 0.9095, Recall = 0.9651, AUC = 0.9800, AP = 0.9705
+2026-04-27 19:07:24,337 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.8019, Precision = 0.7658, Recall = 0.8416, AUC = 0.8793, AP = 0.8583
+2026-04-27 19:07:24,337 - INFO - Epoch 47 duration: 30.66 seconds
+
+2026-04-27 19:07:24,337 - INFO - epoch: 48, lr = 0.0001
+2026-04-27 19:07:40,653 - INFO - Average train loss for epoch 48: 0.7180958390235901
+2026-04-27 19:07:52,941 - INFO - Train metrics: ACC = 0.9370, F1 = 0.9385, Precision = 0.9168, Recall = 0.9613, AUC = 0.9787, AP = 0.9700
+2026-04-27 19:07:54,572 - INFO - Validation metrics: ACC = 0.7910, F1 = 0.7961, Precision = 0.7810, Recall = 0.8119, AUC = 0.8813, AP = 0.8389
+2026-04-27 19:07:54,572 - INFO - Epoch 48 duration: 30.23 seconds
+
+2026-04-27 19:07:54,572 - INFO - epoch: 49, lr = 0.0001
+2026-04-27 19:08:11,163 - INFO - Average train loss for epoch 49: 0.6835433840751648
+2026-04-27 19:08:23,808 - INFO - Train metrics: ACC = 0.9370, F1 = 0.9382, Precision = 0.9218, Recall = 0.9551, AUC = 0.9809, AP = 0.9722
+2026-04-27 19:08:25,424 - INFO - Validation metrics: ACC = 0.7861, F1 = 0.7923, Precision = 0.7736, Recall = 0.8119, AUC = 0.8837, AP = 0.8551
+2026-04-27 19:08:25,424 - INFO - Epoch 49 duration: 30.85 seconds
+
+2026-04-27 19:08:25,425 - INFO - epoch: 50, lr = 0.0001
+2026-04-27 19:08:42,407 - INFO - Average train loss for epoch 50: 0.7213053703308105
+2026-04-27 19:08:55,653 - INFO - Train metrics: ACC = 0.9364, F1 = 0.9380, Precision = 0.9157, Recall = 0.9613, AUC = 0.9810, AP = 0.9713
+2026-04-27 19:08:57,414 - INFO - Validation metrics: ACC = 0.7811, F1 = 0.7885, Precision = 0.7664, Recall = 0.8119, AUC = 0.8809, AP = 0.8565
+2026-04-27 19:08:57,414 - INFO - Epoch 50 duration: 31.99 seconds
+
+2026-04-27 19:08:57,575 - INFO - Train time: 1671.66 seconds
+

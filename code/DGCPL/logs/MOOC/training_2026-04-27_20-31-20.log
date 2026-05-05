@@ -1,0 +1,14 @@
+2026-04-27 20:31:20,985 - INFO - Using device: cpu
+2026-04-27 20:31:20,985 - INFO - Dataset: MOOC
+
+2026-04-27 20:31:20,985 - INFO - Read data complete!
+2026-04-27 20:31:22,098 - INFO - Training!!!!
+2026-04-27 20:31:22,099 - INFO - epoch: 1, lr = 0.0001
+2026-04-27 20:31:27,159 - INFO - Average train loss for epoch 1: 2.0116653442382812
+2026-04-27 20:31:28,790 - INFO - Train metrics: ACC = 0.7113, F1 = 0.7300, Precision = 0.6857, Recall = 0.7805, AUC = 0.7827, AP = 0.7614
+2026-04-27 20:31:29,017 - INFO - Validation metrics: ACC = 0.7214, F1 = 0.7522, Precision = 0.6800, Recall = 0.8416, AUC = 0.7993, AP = 0.7714
+2026-04-27 20:31:29,017 - INFO - Saved new best model at epoch 1 with val_auc: 0.7993!!!
+2026-04-27 20:31:29,032 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 20:31:29,032 - INFO - Epoch 1 duration: 6.93 seconds
+
+2026-04-27 20:31:29,032 - INFO - epoch: 2, lr = 0.0001

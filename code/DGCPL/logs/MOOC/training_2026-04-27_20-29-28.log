@@ -1,0 +1,22 @@
+2026-04-27 20:29:28,157 - INFO - Using device: cpu
+2026-04-27 20:29:28,157 - INFO - Dataset: MOOC
+
+2026-04-27 20:29:28,157 - INFO - Read data complete!
+2026-04-27 20:29:29,652 - INFO - Training!!!!
+2026-04-27 20:29:29,652 - INFO - epoch: 1, lr = 0.0001
+2026-04-27 20:29:34,859 - INFO - Average train loss for epoch 1: 2.0116653442382812
+2026-04-27 20:29:36,509 - INFO - Train metrics: ACC = 0.7113, F1 = 0.7300, Precision = 0.6857, Recall = 0.7805, AUC = 0.7827, AP = 0.7614
+2026-04-27 20:29:36,737 - INFO - Validation metrics: ACC = 0.7214, F1 = 0.7522, Precision = 0.6800, Recall = 0.8416, AUC = 0.7993, AP = 0.7714
+2026-04-27 20:29:36,738 - INFO - Saved new best model at epoch 1 with val_auc: 0.7993!!!
+2026-04-27 20:29:36,761 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 20:29:36,761 - INFO - Epoch 1 duration: 7.11 seconds
+
+2026-04-27 20:29:36,761 - INFO - epoch: 2, lr = 0.0001
+2026-04-27 20:29:42,000 - INFO - Average train loss for epoch 2: 1.784494161605835
+2026-04-27 20:29:43,698 - INFO - Train metrics: ACC = 0.7500, F1 = 0.7464, Precision = 0.7574, Recall = 0.7357, AUC = 0.8313, AP = 0.8152
+2026-04-27 20:29:43,940 - INFO - Validation metrics: ACC = 0.7512, F1 = 0.7525, Precision = 0.7525, Recall = 0.7525, AUC = 0.8580, AP = 0.8589
+2026-04-27 20:29:43,940 - INFO - Saved new best model at epoch 2 with val_auc: 0.8580!!!
+2026-04-27 20:29:43,953 - INFO - Model parameters saved to ./best_model/MOOC/MOOC-DGCPL_best_net.pth!
+2026-04-27 20:29:43,954 - INFO - Epoch 2 duration: 7.19 seconds
+
+2026-04-27 20:29:43,954 - INFO - epoch: 3, lr = 0.0001
