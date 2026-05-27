@@ -114,6 +114,8 @@ def train(args):
 
     # 从关联矩阵 H 生成超图拉普拉斯矩阵 G
     # G = D_v^(-1/2) · H · W · D_e^(-1) · H^T · D_v^(-1/2)
+    # 对角矩阵D_v 和 D_e 来表示节点和超边的degree矩阵，其中对角线上的元素就是每个节点/超边的degree即或 
+ 
     adj = generate_G_from_H(
         pd.read_csv(f'./data/{args.dataset}/Hypergraph_H.csv', header=None)
     )

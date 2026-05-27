@@ -124,3 +124,44 @@ $
  ## [link](https://zhuanlan.zhihu.com/p/362005297#:~:text=%E8%80%83%E8%99%91%E5%88%B0%E5%90%8E%E9%9D%A2%E5%8F%AF%E8%83%BD%E8%A6%81%E8%BF%9E%E7%BB%AD%E6%9B%B4%E6%96%B0%E5%A5%BD%E5%87%A0%E6%9C%9F%E6%9C%89%E5%85%B3%E8%B6%85%E5%9B%BE%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E6%89%80%E4%BB%A5%E7%B4%A2%E6%80%A7%E5%B0%B1%E5%A4%9A%E5%86%99%E5%87%A0%E7%AF%87%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AF%86%E7%B1%BB%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%BA%E5%90%8E%E9%9D%A2%E5%81%9A%E9%93%BA%E5%9E%AB%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B9%9F%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%B8%AA%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93%E3%80%82%E8%BF%99%E6%AC%A1%E6%88%91%E4%BC%9A%E5%85%88%E4%BB%8E%E6%97%A0%E5%90%91%E5%9B%BE%E7%9A%84%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5%E5%BB%B6%E4%BC%B8%E5%88%B0%E8%B6%85%E5%9B%BE%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5%E3%80%82%E5%8F%82%E8%80%83%E6%96%87%E7%AB%A0%E5%8F%8A%E6%96%87%E7%8C%AE%E5%9C%A8)
 
  ![peak](image/image4.png)
+
+## 8.随机游走
+
+ **直接看链接**
+ >**叩拜大佬的博客**
+ [link](https://qi-zhan.github.io/blog/2023/randomwalk/)
+ [link](https://oi-wiki.org/graph/graph-random-walk/)
+
+
+# [发现一个宝藏网站！](https://oi-wiki.org/)
+
+## 9.BERT
+
+[link](https://www.runoob.com/nlp/bert-encoder.html)
+[link](https://zhuanlan.zhihu.com/p/109250703)
+
+## 10.DSSM
+
+[link](https://www.zhihu.com/tardis/zm/art/335112207?source_id=1005)
+
+## 11.图神经网络
+
+[link](https://www.kakublog.cn/blog/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C#heading-1)
+[link](https://www.bilibili.com/video/BV1yP4y1976Z/?mcid=EB382EFF45A44DF8B000CFBECF0E113A&vd_source=83b692f3095f055a3c545cba862ad1cb)
+
+### 11.1.one-hot编码
+
+[link](https://zhuanlan.zhihu.com/p/134495345)
+
+## 12.超图神经网络(HGNN)
+
+[link](https://renzehua1998.github.io/2023/09/02/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB-%E8%B6%85%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/)
+
+## 13.嵌入(embedding)
+
+[link](https://gukirito.github.io/2026-05-13-embedding/)
+
+### 一句话解释#
+> Embedding（嵌入）就是把一段文字、一张图、一段音频变成一串数字，这串数字代表它的"语义"——意思相近的东西，数字也相近。
+
+Embedding 是把"语义"变成"数学"的桥梁。它让计算机能够"理解"内容的含义，而不仅仅是匹配表面的文字。理解了 Embedding，你就理解了为什么大模型能够做搜索、做推荐、做知识库问答。
